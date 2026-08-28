@@ -16,7 +16,7 @@ Work without a working video link is incomplete.
 Lab 2, plus a second block. The first block is who you are. The second block is this week’s three learning goals, written as complete sentences. Comments that earn their place.
 
 ## Requirements
-- Two blocks of `cout` lines, separated so a human can see them
+- Ten blocks of `cout` lines, separated so a human can see them
 - Block 2 names this week’s three goals (parts, compile with intent, first error)
 - At least four comments that explain *why*, not `// print`
 - File-top comment with your name and the week
