@@ -9,8 +9,7 @@
 Paste a link to a short video of you running this assignment (tool + code + run).
 Work without a working video link is incomplete.
 
-**Your demo:** https://youtu.be/TTZE0NfZgrg
-
+**Your demo:** https://youtu.be/coASVOb8DuA
 ## What to build
 Lab 2, plus a second block. The first block is who you are. The second block is this week’s three learning goals, written as complete sentences. Comments that earn their place.
 
