@@ -25,6 +25,8 @@ int main() {
             << "   way I want it to print. \n";
   std::cout << "3) I was able to compile with errors a few times \n"
             << "   but I was able to fix and run the program. \n";
+  
+return 0;
 
 }
 //return 0 tells the system the program ended.
